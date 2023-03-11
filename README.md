@@ -1,6 +1,16 @@
 # vite-typescript
 
-1. Certifique-se de ter o Yarn instalado em seu computador, como mencionado na aula anterior.
+
+1. Certifique-se de ter o Yarn instalado em seu computador.
+- Executando o comando abaixo.
+````yaml
+yarn --version
+# A saída é a versão instalada `1.22.19`
+````
+- Caso o yarn não esteja instalado, faça sua instalação com o comando abaixo:
+````yaml
+npm install -g yarn
+````
 
 2. Abra o terminal e crie um novo projeto Vite com o comando yarn create vite app:
 
